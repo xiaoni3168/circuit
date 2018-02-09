@@ -1,0 +1,32 @@
+{
+    "elements": [
+        {
+            "id": "group-0",
+            "group": true,
+            "label": "Line",
+            "open": true,
+            "children": [
+                {
+                    "id": 0,
+                    "name": "Line"
+                }
+            ]
+        },
+        {
+            "id": "group-1",
+            "group": true,
+            "label": "Element",
+            "open": true,
+            "children": [
+                {
+                    "id": 0,
+                    "name": "Lamp"
+                },
+                {
+                    "id": 1,
+                    "name": "Battery"
+                }
+            ]
+        }
+    ]
+}
